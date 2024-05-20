@@ -8,3 +8,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+upload the food image and it will generate recipe.
